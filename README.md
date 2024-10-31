@@ -1,1 +1,1 @@
-# site-java-2
+# site-javascript
